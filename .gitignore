@@ -1,0 +1,11 @@
+*~
+.*
+*.iml
+target/
+temp/
+dependency-reduced-pom.xml
+
+
+# exceptions
+!.gitignore
+!.mvn
